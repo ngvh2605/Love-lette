@@ -1,0 +1,100 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Love Letter from Viet Hoang Nguyen</title><script language="javascript">
+	var kt=false
+	alert('Này! Anh có m?t câu h?i mu?n h?i em!')
+	alert('Tr? l?i cho chính xác nhé! ')
+	alert('Câu h?i cung nh? nhàng thôi: ')
+	alert('Ðó là ...')
+function move()
+{
+	var x = Math.random()*500
+	var y = Math.random()*500
+	var left=x+'px'
+	var top=y+'px'
+	document.getElementById('lbNo').style.left=left
+	document.getElementById('lbNo').style.top=top
+}
+function dongy()
+{
+	if(kt==false)
+	{
+		alert('Th?t nhá!')
+		alert('Th?t th?t nhá!')
+		alert('H?i th? thôi ch? th?t ra anh bi?t t? lâu r?i hihi')
+		kt=true	
+	}	
+	else
+	{
+		alert('T?m bi?t')
+             
+	}
+}
+</script><style type="text/css">
+<!--
+.style3 {color: #FF0000}
+-->
+</style> 
+<center>
+	       
+	<div id="lbYes" style="position:absolute; left: 100px; top: 202px;">
+		  <input type="button" value="Yes!" style="cursor:pointer;color:#000000" onclick="dongy()" />    
+	</div>
+	       
+	<div id="lbNo" style="position: absolute; left: 207.414px; top: 201.844px; ">
+		    <input type="button" value="No!" style="cursor:pointer;color:#000000" onmousemove="move()" />    
+	</div>
+</center>
+    
+<h1 align="center">
+	    <span class="style3">Will you  </span>
+</h1>
+<h1 align="center">
+	    <span class="style3"> (T?t di là d?ng ý)</span>
+</h1>
+   
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+<p>
+	         
+</p>
+   
+<h1 align="center">
+	 
+</h1>
+<p>
+	         
+</p>
